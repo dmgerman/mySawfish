@@ -1,0 +1,20 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS:
+#+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
+#+DRAWERS: HIDDEN STATE
+#+TITLE: My Sawfish Scripts
+#+CATEGORY: todo
+
+These are various sawfish scripts that I have created over the years. They are probably good enough that other scan use them.
+
+|----------------------------------+---------+-----------------------------------------------------------------------------------------------|
+| Name                             | Version | Purpose                                                                                       |
+|----------------------------------+---------+-----------------------------------------------------------------------------------------------|
+| [[./dmg-gpsy.jl][dmg-gpsy.jl]]                      |     0.2 | Quickly grow/pack/shrink/yank a window using the keyboard                                     |
+| [[./dmg-restore-windows-positions.jl][dmg-restore-windows-positions.jl]] |     0.1 | Save positions of windows before changing screen resolution to be restored when changing back |
+| [[./dmg-quadrants.jl][dmg-quadrants.jl]]                 |     0.1 | Define quadrants on the screen and send windows to them                                       |
+|----------------------------------+---------+-----------------------------------------------------------------------------------------------|
+
+
+
