@@ -1,12 +1,12 @@
 #+STARTUP: showall
 #+STARTUP: lognotestate
-#+TAGS:
+#+TAGS: sawfish, hacking
 #+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
 #+DRAWERS: HIDDEN STATE
 #+TITLE: My Sawfish Scripts
 #+CATEGORY: todo
 
-These are various sawfish scripts that I have created and improved over the years. They are probably good enough that other scan use them.
+These are various sawfish scripts that I have created and improved over the years. They are probably good enough that others can use them.
 
 |----------------------------------+---------+-----------------------------------------------------------------------------------------------|
 | Name                             | Version | Purpose                                                                                       |
