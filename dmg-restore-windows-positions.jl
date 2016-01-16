@@ -1,4 +1,4 @@
-;; dmg-restore-windows-positions.jl 0.1 -- store state across window instances
+;; dmg-restore-windows-positions.jl 0.1 -- restore windows to position when changing back to a given screen size
 
 ;; Copyright (C) 2016 Daniel M German <dmg@turingmachine.org>
 
