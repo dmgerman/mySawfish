@@ -15,6 +15,7 @@ These are various sawfish scripts that I have created and improved over the year
 | [[./dmg-restore-windows-positions.jl][dmg-restore-windows-positions.jl]] |     0.1 | Save positions of windows before changing screen resolution to be restored when changing back |
 | [[./dmg-quadrants.jl][dmg-quadrants.jl]]                 |     0.1 | Define quadrants on the screen and send windows to them                                       |
 | [[./dmg-focus-by-direction.jl][dmg-focus-by-direction.jl]]        |     1.1 | Focus next window in any direction (left, right, above, below)                                |
+| dmg-tiling.jl                    |     0.2 | Tile windows horizontally or vertically in the screen                                         |
 |----------------------------------+---------+-----------------------------------------------------------------------------------------------|
 
 
